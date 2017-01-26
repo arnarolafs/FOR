@@ -14,3 +14,9 @@ margf = tala1 * tala2
 print("\nsumma talnanna er: %d" % summa)
 print("marfjöldun talnanan er: %d " % margf)
 
+#liður 2
+
+fornafn = input("\nsláðu inn fornafn: ")
+eftirnafn = input("sláðu inn eftirnafn: ")
+
+print("Halló %s %s" % (fornafn, eftirnafn))
